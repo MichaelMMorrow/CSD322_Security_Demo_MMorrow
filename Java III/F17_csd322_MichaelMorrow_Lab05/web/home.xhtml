@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:ui="http://xmlns.jcp.org/jsf/facelets"
+      xmlns:h="http://xmlns.jcp.org/jsf/html"
+      xmlns:f="http://xmlns.jcp.org/jsf/core">
+    
+    <ui:composition template="/template.xhtml">
+        <ui:define name="title">
+            <h:outputText value="#{bundle.Lab}"></h:outputText>
+        </ui:define>
+        <ui:define name="body">
+            <h:link outcome="/customers/List" value="Show All Customers Items"/>
+            <br />
+            <h:link outcome="/discount/List" value="Show All Discount Items"/>
+            <br />
+            <h:link outcome="/orderInvoice/List" value="Show All OrderInvoice Items"/>
+            <br />
+            <h:link outcome="/orders/List" value="Show All Orders Items"/>
+            <br />
+            <h:link outcome="/productCategory/List" value="Show All ProductCategory Items"/>
+            <br />
+            <h:link outcome="/products/List" value="Show All Products Items"/>
+            <br />
+            <h:link outcome="/supplierRegion/List" value="Show All SupplierRegion Items"/>
+            <br />
+            <h:link outcome="/suppliers/List" value="Show All Suppliers Items"/>
+        </ui:define>
+    </ui:composition>
+</html>
+
