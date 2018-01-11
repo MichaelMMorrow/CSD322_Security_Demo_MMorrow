@@ -8,8 +8,8 @@
         <Node id="orders/List.xhtml" x="400" y="300" zoom="true"/>
         <Node id="customers/List.xhtml" x="1150" y="150" zoom="true"/>
         <Node id="productCategory/Create.xhtml" x="900" y="600" zoom="true"/>
-        <Node id="discount/Edit.xhtml" x="400" y="600" zoom="true"/>
         <Node id="discount/List.xhtml" x="1150" y="600" zoom="true"/>
+        <Node id="discount/Edit.xhtml" x="400" y="600" zoom="true"/>
         <Node id="supplierRegion/Create.xhtml" x="400" y="450" zoom="true"/>
         <Node id="orderInvoice/View.xhtml" x="150" y="150" zoom="true"/>
         <Node id="index.html" x="900" y="150" zoom="true"/>
@@ -17,8 +17,8 @@
         <Node id="suppliers/Create.xhtml" x="1150" y="300" zoom="true"/>
         <Node id="orderInvoice/Edit.xhtml" x="1400" y="300" zoom="true"/>
         <Node id="orderInvoice/List.xhtml" x="650" y="450" zoom="true"/>
-        <Node id="customers/View.xhtml" x="400" y="1050" zoom="true"/>
         <Node id="customers/Edit.xhtml" x="900" y="750" zoom="true"/>
+        <Node id="customers/View.xhtml" x="400" y="1050" zoom="true"/>
         <Node id="suppliers/List.xhtml" x="400" y="750" zoom="true"/>
         <Node id="supplierRegion/Edit.xhtml" x="650" y="300" zoom="true"/>
         <Node id="index.xhtml" x="150" y="750" zoom="true"/>
@@ -29,14 +29,14 @@
         <Node id="supplierRegion/List.xhtml" x="900" y="300" zoom="true"/>
         <Node id="orders/Create.xhtml" x="1650" y="300" zoom="true"/>
         <Node id="products/Edit.xhtml" x="1400" y="450" zoom="true"/>
-        <Node id="products/View.xhtml" x="650" y="750" zoom="true"/>
         <Node id="customers/Create.xhtml" x="650" y="600" zoom="true"/>
-        <Node id="supplierRegion/View.xhtml" x="1650" y="150" zoom="true"/>
+        <Node id="products/View.xhtml" x="650" y="750" zoom="true"/>
         <Node id="productCategory/View.xhtml" x="1900" y="150" zoom="true"/>
+        <Node id="supplierRegion/View.xhtml" x="1650" y="150" zoom="true"/>
         <Node id="products/Create.xhtml" x="150" y="1050" zoom="true"/>
         <Node id="orders/Edit.xhtml" x="400" y="150" zoom="true"/>
-        <Node id="orders/View.xhtml" x="150" y="600" zoom="true"/>
         <Node id="discount/Create.xhtml" x="650" y="900" zoom="true"/>
+        <Node id="orders/View.xhtml" x="150" y="600" zoom="true"/>
     </Scope>
     <Scope Scope="All Faces Configurations"/>
 </Scene>
